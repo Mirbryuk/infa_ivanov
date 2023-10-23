@@ -1,2 +1,1 @@
-#infa_ivanov
-it's test project
+#infa_ivanov it's test project
